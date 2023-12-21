@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_01.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_02.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/T9/TIBE2JVDZT12HSILIFWBTY.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/L3/JB04U5X0ID2YLOT46I9ZC1.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/M8/L3CNPWT0UT9ZO8XOSWVO0X.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/J7/YOFEBSZI2HHG1W9VCJPLQU.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Assasinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Assasinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/ThirdPerson/Input/Actions/IA_Assasin.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Blueprints/BP_Dummy.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Blueprints/BP_Assasination.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Y2/M6BURQU93R2Y5B9NNK0LPC.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/UI/WB_AssasinatePrompt.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OM/2889SXDSOVHNNYWVBB87CU.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Z9/16LN5H5XL0TEVVL294PUSB.uasset",
+				"D:/Epic Games/Engine_Projects/PGSemestralka/SemestralkaProject/RPGDemo/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset"
+			]
+		}
+	]
+}
